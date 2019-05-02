@@ -1,0 +1,15 @@
+.DS_Store
+__pycache__/
+*.csl
+untitled folder/
+*.sh
+images/
+plot1/
+plot2/
+plot3/
+plotgood/
+plots/
+*.rmd
+*sty
+*.pdf
+*.bib
